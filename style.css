@@ -1,9 +1,14 @@
+body{
+    font-family: 'MedievalSharp', cursive;
+    background-color: #ECE8DD;
+}
 textarea {
     width: 90%;
     height: 10vh;
     display: inline-block;
     margin: 1rem;
     padding: 1rem;
+    background-color: white;
 }
 
 #output {
@@ -12,6 +17,7 @@ textarea {
     width: 100%;
     margin: 1rem;
     padding: 1rem;
+    background-color: white;
     
     
 }
@@ -30,9 +36,8 @@ textarea {
 button{
     margin-left: 100px;
 }
-
- h1 {
-	font-family: 'Varela', Arial;
-	text-transform:none;
-	}
+p{
+    text-align: justify;
+}
+ 
 					
