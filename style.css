@@ -39,9 +39,15 @@ button{
 p{
     text-align: justify;
 }
-#header{
-    
-    font-size: 40px;
+h1{
+    background-color: #47342C;
+    color: #BAAA90;
+    font-size: 30px;
+}
+#footer{
+    background-color: #47342C;
+    color: #BAAA90;
+    text-align: center;
 }
  
 					
