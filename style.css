@@ -35,6 +35,13 @@ textarea {
 }
 button{
     margin-left: 100px;
+    color: #BAAA90; 
+    background-color: #47342C;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    padding: 3px 5px;
+    font-family: 'MedievalSharp', cursive;
 }
 p{
     text-align: justify;
